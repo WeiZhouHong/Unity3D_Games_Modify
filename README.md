@@ -16,7 +16,7 @@
 ## 警語
 + 本修改未對遊戲機制進行作弊，但公開複製教學影片又透漏遊戲9碼ID者可能會遭致檢舉停權7日。
 + 正常使用本MOD甚至進行遊戲實況不會使遊戲帳號遭到停權。
-+ 有使用不明來源的apk或其他作弊修改的dll等造成決鬥資料異常者則不再保障範圍。
++ 有使用不明來源的apk或其他作弊修改的dll等，造成決鬥資料異常者則不在保障範圍。
 
 ##
 專案內的程式碼檔案公開透明並供使用者參考，
@@ -32,3 +32,4 @@ https://mega.nz/#!r4JSQLjT!5IVtG5ewHcTdKMt-UIUuqPPrvWUrCTFlEPG6e_oTAJk
 + 下載完日語言後若不使用隨機音樂功能，可將 Assembly-CSharp.dll還原回原本。
 
 ## 影片預覽
+[Yu-Gi-Oh! Duel Links MOD](https://youtu.be/adOzmdqLpRI)
