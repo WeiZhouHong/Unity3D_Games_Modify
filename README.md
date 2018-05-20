@@ -23,7 +23,7 @@
 方便搜尋查驗，並未加入奇怪的東西影響資安。
 
 ## 使用步驟：
-+ 下載 Assembly-CSharp.dll (Downloads)：
++ 下載對應版本的 Assembly-CSharp.dll(檔名為X.X.X_JPVoice+BGMrandom.zip)：
 https://mega.nz/#!r4JSQLjT!5IVtG5ewHcTdKMt-UIUuqPPrvWUrCTFlEPG6e_oTAJk
 + 備份目錄下的 Assembly-CSharp.dll，或命名為其他副檔名標註。
 + 將檔案解壓縮放到Steam遊戲目錄：
