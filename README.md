@@ -23,9 +23,9 @@
 方便搜尋查驗，並未加入奇怪的東西影響資安。
 
 ## 使用步驟：
-+ 下載對應版本的 Assembly-CSharp.dll(檔名為X.X.X_JPVoice+BGMrandom.zip)：
-https://mega.nz/#!r4JSQLjT!5IVtG5ewHcTdKMt-UIUuqPPrvWUrCTFlEPG6e_oTAJk
-+ 備份目錄下的 Assembly-CSharp.dll，或命名為其他副檔名標註。
++ 下載對應版本的 Assembly-CSharp.dll：
+https://mega.nz/#F!a9Jg1QDA!Cpt3NCe5Jf3Y-2JE4wEkZA
++ 備份目錄下的 Assembly-CSharp.dll，或命名為其他副檔名。
 + 將檔案解壓縮放到Steam遊戲目錄：
 .\Yu-Gi-Oh! Duel Links\dlpc_Data\Managed
 + 啟動遊戲即可，日本語言請至設定後開始下載。
