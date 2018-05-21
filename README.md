@@ -1,5 +1,9 @@
 # Unity3D_Games_Modify
  [PC-Steam]YuGiOh_Duel_Links_MOD
+### Assembly-CSharp.dll(Version 2.6.1)
+Setup here:
+...\Yu-Gi-Oh! Duel Links\dlpc_Data\Managed\
+
 ### MenuBGMLabel
 修改城鎮音樂從根據場景變為隨機選擇遊戲內部事件的音樂。
 
