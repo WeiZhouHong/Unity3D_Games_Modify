@@ -15,20 +15,14 @@ namespace YgomSystem.Utility
 				List<object> listByJsonPath2 = ClientWork.getListByJsonPath("Server.voices", null);
 				if (listByJsonPath != null)
 				{
-					Locale.supportedLanguages = new List<string>{"ja-JP"};;
-					Locale.supportedReadableLanguages = new List<string>
-					{
-						"日語介面卡圖(Japanese)"
-					};
+					Locale.supportedLanguages = new List<string>{"ja-JP"};
+					Locale.supportedReadableLanguages = new List<string>{"日語介面卡圖(Japanese)"};
 					Locale.setupLang(listByJsonPath, Locale.supportedLanguages, Locale.supportedReadableLanguages);
 				}
 				if (listByJsonPath2 != null)
 				{
 					Locale.supportedVoices = new List<string>{"ja-JP"};
-					Locale.supportedReadableVoices = new List<string>
-					{
-						"日本語音(Japanese)"
-					};
+					Locale.supportedReadableVoices = new List<string>{"日本語音(Japanese)"};
 					Locale.setupLang(listByJsonPath2, Locale.supportedVoices, Locale.supportedReadableVoices);
 				}
 				if (Locale.supportedLanguages == null || Locale.supportedLanguages.Count == 0)
