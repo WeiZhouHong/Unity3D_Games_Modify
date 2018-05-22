@@ -1,6 +1,6 @@
 # Unity3D_Games_Modify
  [PC-Steam]YuGiOh_Duel_Links_MOD
-### Assembly-CSharp.dll(Version 2.6.1)
+### Assembly-CSharp.dll
 Setup here:
 ...\Yu-Gi-Oh! Duel Links\dlpc_Data\Managed\
 
