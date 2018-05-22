@@ -2,10 +2,10 @@ using System;
 
 namespace YgomGame.Utility
 {
-	// Token: 0x02000734 RID: 1844
+	// Token: 0x02000546 RID: 1350
 	public partial class SoundUtil
 	{
-		// Token: 0x0600366E RID: 13934
+		// Token: 0x06003054 RID: 12372 RVA: 0x0014BDBC File Offset: 0x0014A1BC
 		public static string MenuBGMLabel()
 		{
 			Random rnd = new Random();
@@ -22,11 +22,15 @@ namespace YgomGame.Utility
 				"BGM_IJGN_MENU"
 			};
 			int bgm_num = rnd.Next(0, bgm.Length);
-			string result = bgm[bgm_num];
+			string result = "BGM_MENU_MAIN";
 			string currentSeries = CharaUtil.currentSeries;
-			if (currentSeries != null && currentSeries == "GX")
+			result = bgm[bgm_num];
+			if (currentSeries != null)
 			{
-				result = bgm[bgm_num];
+				if (currentSeries == "GX")
+				{
+					result = bgm[bgm_num];
+				}
 			}
 			return result;
 		}
