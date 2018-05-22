@@ -22,7 +22,8 @@ namespace YgomGame.Duel
 				"BGM_DUEL_CMX03"
 			};
 			int bgm_num = rnd.Next(0, bgm.Length);
-			string result = bgm[bgm_num];
+			string result = "BGM_DUEL_CMX03";
+			result = bgm[bgm_num];
 			return result;
 		}
 	}
