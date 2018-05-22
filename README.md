@@ -28,7 +28,7 @@ Setup here:
 
 ## 使用步驟：
 + 下載上方對應版本的 Assembly-CSharp.dll：
-另外上傳MEGA空間：https://mega.nz/#F!a9Jg1QDA!Cpt3NCe5Jf3Y-2JE4wEkZA
++ Another Downloads (MEGA)：https://mega.nz/#F!a9Jg1QDA!Cpt3NCe5Jf3Y-2JE4wEkZA
 + 備份目錄下的 Assembly-CSharp.dll，或命名為其他副檔名。
 + 將檔案解壓縮放到Steam遊戲目錄：
 .\Yu-Gi-Oh! Duel Links\dlpc_Data\Managed
