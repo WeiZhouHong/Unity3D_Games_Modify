@@ -32,8 +32,8 @@ namespace YgomGame.Duel
 				return null;
 			}
 			int bgm_num = rnd.Next(0, bgm.Length);
-			string result = bgm[bgm_num];
-
+			string result = "BGM_DUEL_TAG";
+			result = bgm[bgm_num];
 			if (Sound.s_work != null)
 			{
 				result = bgm[bgm_num];
