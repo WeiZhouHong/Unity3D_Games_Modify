@@ -35,5 +35,12 @@ Setup here:
 + 啟動遊戲即可，日本語言請至設定後開始下載。
 + 下載完日語言後若不使用隨機音樂功能，可將 Assembly-CSharp.dll還原回原本。
 
++ 1.Download the corresponding version of Assembly-CSharp.dll above:
+Another Downloads (MEGA): https://mega.nz/#F!a9Jg1QDA!Cpt3NCe5Jf3Y-2JE4wEkZA
++ 2.Back up the Assembly-CSharp.dll under the directory, or name it as another extension.
++ 3.Unzip the file into the Steam Games directory: .\Yu-Gi-Oh! Duel Links\dlpc_Data\Managed
++ 4.Start the game. In Japanese language, please go to settings and start downloading.
++ 5.If you do not use the random music function after downloading the Japanese language, you can restore Assembly-CSharp.dll back to the original.
+
 ## 影片預覽
 [Yu-Gi-Oh! Duel Links MOD](https://youtu.be/adOzmdqLpRI)
