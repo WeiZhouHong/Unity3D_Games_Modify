@@ -5,17 +5,19 @@ using System.Diagnostics;
 
 namespace YgomGame.Duel
 {
-	// Token: 0x0200016C RID: 364
+	// Token: 0x0200010F RID: 271
 	public partial class Sound
 	{
-		// Token: 0x06000D46 RID: 3398 RVA: 0x00068538 File Offset: 0x00066738
+		// Token: 0x06000CEC RID: 3308 RVA: 0x000479C8 File Offset: 0x00045DC8
 		public static string GetClimaxBGMLabel(int player)
 		{
 			Random rnd = new Random();
 			string[] bgm = new string[]
 			{
+				"BGM_DUEL_04",
 				"BGM_DUEL_13",
 				"BGM_DUEL_18",
+				"BGM_DUEL_19",
 				"BGM_DUEL_20",
 				"BGM_DUEL_CMX01",
 				"BGM_DUEL_CMX02",
